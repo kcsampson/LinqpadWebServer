@@ -1,0 +1,5 @@
+C:\Projects\LinqpadWebServer\LinqpadScriptRunner\bin\Debug\LinqpadScriptRunner.dll
+C:\Projects\LinqpadWebServer\LinqpadScriptRunner\bin\Debug\LinqpadScriptRunner.pdb
+C:\Projects\LinqpadWebServer\LinqpadScriptRunner\bin\Debug\LINQPad.exe
+C:\Projects\LinqpadWebServer\LinqpadScriptRunner\obj\Debug\LinqpadScriptRunner.dll
+C:\Projects\LinqpadWebServer\LinqpadScriptRunner\obj\Debug\LinqpadScriptRunner.pdb
