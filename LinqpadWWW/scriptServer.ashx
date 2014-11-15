@@ -226,7 +226,8 @@ public class scriptServer : IHttpHandler, IRequiresSessionState {
             
             foreach (var scriptPath in scriptPaths)
             {
-                scriptFile = Path.Combine(scriptPath.Trim(), scriptName) + ".linq";
+                scriptFile = scriptPath + "\\" + scriptName + ".linq";
+                //scriptFile = Path.GetFullPath(Path.Combine(scriptPath.Trim(), scriptName) + ".linq");
                 if (File.Exists(scriptFile))
                 {
 
